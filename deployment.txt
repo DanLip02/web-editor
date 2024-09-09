@@ -1,0 +1,2 @@
+docker build . -t "{host+port}/def-table-web-editor:0.1" --no-cache
+docker push "{host+port}/web-editor:0.1"

@@ -1,0 +1,12 @@
+numpy
+streamlit
+pandas
+xlsxwriter
+pyxlsb
+streamlit-aggrid
+streamlit-authenticator
+psycopg2
+openpyxl
+sqlalchemy
+xmltodict
+python-dotenv
